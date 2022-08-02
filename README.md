@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### I'm Jen, a Java software developer 👨‍💻 
   
 
-- 🌱 I’m currently learning: Spring, Python, IA 
+- 🌱 I’m currently learning: Spring, Python, AI 
 - 📫 How to reach me: https://www.linkedin.com/in/jenniffercubillos/
 - ❓ Ask me about anything related to Java or Git  
 - ⚡ Fun fact: I use tabs over spaces  
