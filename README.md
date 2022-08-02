@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jcubillosm/jcubillosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello World 👋
+### I'm Jen, a Java software developer 👨‍💻 
+  
+
+- 🌱 I’m currently learning: Spring, Python, IA 
+- 📫 How to reach me: https://www.linkedin.com/in/jenniffercubillos/
+- ❓ Ask me about anything related to Java or Git  
+- ⚡ Fun fact: I use tabs over spaces  
